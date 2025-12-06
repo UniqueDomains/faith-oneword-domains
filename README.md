@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .FAITH one-word domains still available to buy.
 
-This dataset contains 4,808 .FAITH one word domains with availability, attractiveness and demand scores.
+This dataset contains 4,809 .FAITH one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.FAITH one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=faith-oneword-domains&utm_content=description.top) (4,810) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.FAITH one word domain
 
 | Domain           | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | ---------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.faith        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.faith      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.faith        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.faith      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.faith  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.faith      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.faith  | available | 58       | 7%     | 9      |           |         |         |
@@ -40,11 +40,11 @@ If you want to search & filters the complete database of [.FAITH one word domain
 | abducting.faith  | available | 50       | 1%     | 9      |           |         |         |
 | abenaki.faith    | available | 82       | 3%     | 7      |           |         |         |
 | aberdonian.faith | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.faith   | available | 74       | 7%     | 8      |           |         |         |
+| aberrant.faith   | premium   | 74       | 7%     | 8      |           |         |         |
 | abeyant.faith    | available | 56       | 2%     | 7      |           |         |         |
 | abiding.faith    | premium   | 106      | 5%     | 7      |           |         |         |
 | abient.faith     | available | 54       | 1%     | 6      |           |         |         |
-| ability.faith    | available | 92       | 18%    | 7      |           |         |         |
+| ability.faith    | premium   | 92       | 18%    | 7      |           |         |         |
 | abit.faith       | available | 66       | 16%    | 5      |           |         |         |
 | abject.faith     | available | 94       | 8%     | 6      |           |         |         |
 | abkhas.faith     | available | 68       | 1%     | 6      |           |         |         |
