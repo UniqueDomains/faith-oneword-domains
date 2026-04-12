@@ -82,7 +82,7 @@ print(df.head())
 | pack.faith       | available | $16.98    | —             | 100            | 32     | 4      | namecheap   |
 | ace.faith        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com    |
 | learning.faith   | available | $16.98    | —             | 76             | 31     | 8      | namecheap   |
-| zero.faith       | premium   | $1,250    | $125          | 112            | 54     | 4      | name.com    |
+| alpha.faith      | premium   | $125      | $37.99        | 90             | 54     | 5      | name.com    |
 | delivery.faith   | available | $16.98    | —             | 72             | 31     | 8      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
