@@ -3,7 +3,7 @@
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C646%20rows-8250df">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C647%20rows-8250df">
   <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C646%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
@@ -14,7 +14,7 @@ Daily-updated dataset of available and resale .faith one-word domains from Uniqu
 > **Note:** this repository currently mirrors the full live catalog for this exact search.
 > Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,646 rows · **Live catalog:** 9,646 domains
+**Public extract:** 9,647 rows · **Live catalog:** 9,646 domains
 
 **Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/faith`  
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .FAITH one-word domain
 
 ### Files
 
-- `faith.csv` — public CSV extract (9,646 rows)
-- `faith.json` — public JSON extract (9,646 rows)
+- `faith.csv` — public CSV extract (9,647 rows)
+- `faith.json` — public JSON extract (9,647 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -77,13 +77,13 @@ print(df.head())
 | power.faith      | premium   | $130      | $32.50        | 98             | 62     | 5      | namecheap   |
 | eleven.faith     | available | $16.98    | —             | 88             | 33     | 6      | namecheap   |
 | seventeen.faith  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com    |
-| pack.faith       | available | $16.98    | —             | 100            | 32     | 4      | namecheap   |
-| cloud.faith      | premium   | $130      | $32.50        | 70             | 59     | 5      | namecheap   |
 | champion.faith   | available | $16.98    | —             | 72             | 32     | 8      | namecheap   |
-| ace.faith        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com    |
+| cloud.faith      | premium   | $130      | $32.50        | 70             | 59     | 5      | namecheap   |
 | learning.faith   | available | $16.98    | —             | 76             | 31     | 8      | namecheap   |
-| zero.faith       | premium   | $1,250    | $125          | 112            | 53     | 4      | name.com    |
+| ace.faith        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com    |
 | delivery.faith   | available | $16.98    | —             | 72             | 31     | 8      | namecheap   |
+| zero.faith       | premium   | $1,250    | $125          | 112            | 53     | 4      | name.com    |
+| metal.faith      | available | $16.98    | —             | 114            | 30     | 5      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,646-row public sample | 9,646 live domains                               |
+| 9,647-row public sample | 9,646 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
