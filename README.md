@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .faith one-word domains from Uniqu
 
 **Public extract:** 9,646 rows · **Live catalog:** 9,646 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/faith`  
 **Best for:** founders, investors, studios
 
@@ -77,12 +77,12 @@ print(df.head())
 | power.faith      | premium   | $130      | $32.50        | 98             | 62     | 5      | namecheap   |
 | eleven.faith     | available | $16.98    | —             | 88             | 33     | 6      | namecheap   |
 | seventeen.faith  | premium   | $437.50   | $62.50        | 84             | 62     | 9      | name.com    |
-| champion.faith   | available | $16.98    | —             | 72             | 33     | 8      | namecheap   |
-| cloud.faith      | premium   | $130      | $32.50        | 70             | 59     | 5      | namecheap   |
 | pack.faith       | available | $16.98    | —             | 100            | 32     | 4      | namecheap   |
+| cloud.faith      | premium   | $130      | $32.50        | 70             | 59     | 5      | namecheap   |
+| champion.faith   | available | $16.98    | —             | 72             | 32     | 8      | namecheap   |
 | ace.faith        | premium   | $625      | $81.25        | 88             | 57     | 3      | name.com    |
 | learning.faith   | available | $16.98    | —             | 76             | 31     | 8      | namecheap   |
-| alpha.faith      | premium   | $125      | $37.99        | 90             | 54     | 5      | name.com    |
+| zero.faith       | premium   | $1,250    | $125          | 112            | 53     | 4      | name.com    |
 | delivery.faith   | available | $16.98    | —             | 72             | 31     | 8      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
