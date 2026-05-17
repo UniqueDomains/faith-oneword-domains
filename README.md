@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .faith one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,600 domains · **Median ask:** $270.58 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-17  
 **Canonical page:** `https://unique.domains/domains/tld/faith`  
 **Best for:** founders, investors, studios
 
@@ -79,9 +79,9 @@ print(df.head())
 | schools.faith     | available | $16.98    | —             | 72             | 24     | 7      | namecheap |
 | rewards.faith     | premium   | $625      | —             | 62             | 30     | 7      | name.com  |
 | coupons.faith     | available | $11.99    | $11.99        | 52             | 24     | 7      | namesilo  |
-| popup.faith       | premium   | $437.50   | —             | 84             | 29     | 6      | name.com  |
-| unicorns.faith    | available | $16.98    | —             | 73             | 21     | 8      | namecheap |
 | cams.faith        | premium   | $437.50   | —             | 52             | 29     | 4      | name.com  |
+| unicorns.faith    | available | $16.98    | —             | 73             | 21     | 8      | namecheap |
+| popup.faith       | premium   | $437.50   | —             | 84             | 28     | 6      | name.com  |
 | bubbles.faith     | available | $16.98    | —             | 72             | 21     | 7      | namecheap |
 | Jim.faith         | premium   | $700      | $91           | 78             | 28     | 3      | namecheap |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
