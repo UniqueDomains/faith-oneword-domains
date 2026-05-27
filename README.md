@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .faith one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,600 domains · **Median ask:** $270.58 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/faith`  
 **Best for:** founders, investors, studios
 
@@ -72,10 +72,10 @@ print(df.head())
 | justin.faith      | premium   | $125      | —             | 58             | 38     | 7      | name.com  |
 | payments.faith    | available | $16.98    | —             | 58             | 33     | 8      | namecheap |
 | homes.faith       | premium   | $625      | —             | 86             | 34     | 5      | name.com  |
-| inspiration.faith | available | $16.98    | —             | 88             | 30     | 11     | namecheap |
-| etc.faith         | premium   | $625      | —             | 58             | 34     | 3      | name.com  |
+| inspiration.faith | available | $16.98    | —             | 88             | 27     | 11     | namecheap |
+| etc.faith         | premium   | $625      | —             | 58             | 32     | 3      | name.com  |
 | systems.faith     | available | $16.98    | —             | 46             | 27     | 7      | namecheap |
-| partners.faith    | premium   | $437.50   | —             | 61             | 32     | 8      | name.com  |
+| partners.faith    | premium   | $437.50   | —             | 61             | 31     | 8      | name.com  |
 | schools.faith     | available | $16.98    | —             | 72             | 24     | 7      | namecheap |
 | rewards.faith     | premium   | $625      | —             | 62             | 30     | 7      | name.com  |
 | coupons.faith     | available | $11.99    | $11.99        | 52             | 24     | 7      | namesilo  |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
