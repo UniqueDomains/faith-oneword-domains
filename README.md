@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .faith one-word domains fro
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,600 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,600 domains · **Median ask:** $270.58 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,600 domains · **Median ask:** $370.92 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/faith`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/faith`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .FAITH one-word domain
 
 ### Files
 
-- `faith.csv` — public CSV extract (1,000 rows)
-- `faith.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `faith.csv`, public CSV extract (1,000 rows)
+- `faith.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| skills.faith      | available | $16.98    | —             | 58             | 47     | 6      | namecheap |
-| Chanel.faith      | premium   | $490      | $70           | 80             | 77     | 6      | namecheap |
-| matcha.faith      | available | $16.98    | —             | 86             | 39     | 6      | namecheap |
-| lets.faith        | premium   | $437.50   | —             | 77             | 39     | 4      | name.com  |
-| spectra.faith     | available | $16.98    | —             | 62             | 34     | 7      | namecheap |
-| justin.faith      | premium   | $125      | —             | 58             | 38     | 7      | name.com  |
-| payments.faith    | available | $16.98    | —             | 58             | 33     | 8      | namecheap |
-| homes.faith       | premium   | $625      | —             | 86             | 34     | 5      | name.com  |
-| inspiration.faith | available | $16.98    | —             | 88             | 27     | 11     | namecheap |
-| etc.faith         | premium   | $625      | —             | 58             | 32     | 3      | name.com  |
-| systems.faith     | available | $16.98    | —             | 46             | 27     | 7      | namecheap |
-| partners.faith    | premium   | $437.50   | —             | 61             | 31     | 8      | name.com  |
-| schools.faith     | available | $16.98    | —             | 72             | 24     | 7      | namecheap |
-| rewards.faith     | premium   | $625      | —             | 62             | 30     | 7      | name.com  |
-| coupons.faith     | available | $11.99    | $11.99        | 52             | 24     | 7      | namesilo  |
-| cams.faith        | premium   | $437.50   | —             | 52             | 29     | 4      | name.com  |
-| unicorns.faith    | available | $16.98    | —             | 73             | 21     | 8      | namecheap |
-| popup.faith       | premium   | $437.50   | —             | 84             | 28     | 6      | name.com  |
-| bubbles.faith     | available | $16.98    | —             | 72             | 21     | 7      | namecheap |
-| Jim.faith         | premium   | $700      | $91           | 78             | 28     | 3      | namecheap |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
+| comp.faith       | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo    |
+| consensus.faith  | resell    | —         | —             | high           | low    | 9      | Porkbun     |
+| act.faith        | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| DSLR.faith       | available | $11.99    | $11.99        | high           | low    | 4      | namesilo    |
+| unshakable.faith | resell    | —         | —             | high           | low    | 10     | Sav.com LLC |
+| ale.faith        | premium   | $625      | —             | medium         | low    | 3      | name.com    |
+| eggs.faith       | available | $11.99    | $11.99        | high           | low    | 4      | namesilo    |
+| bar.faith        | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| knew.faith       | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo    |
+| boo.faith        | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| lace.faith       | available | $11.99    | $11.99        | high           | low    | 4      | namesilo    |
+| boy.faith        | premium   | $625      | —             | medium         | low    | 3      | name.com    |
+| lang.faith       | available | $11.99    | $11.99        | high           | low    | 4      | namesilo    |
+| bye.faith        | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| mini.faith       | available | $11.99    | $11.99        | high           | medium | 4      | namesilo    |
+| car.faith        | premium   | $650      | $84.50        | high           | medium | 3      | namecheap   |
+| nail.faith       | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo    |
+| cod.faith        | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| nash.faith       | available | $16.98    | —             | high           | low    | 4      | namecheap   |
+| coy.faith        | premium   | $625      | $81.25        | medium         | low    | 3      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely focused on one-word .faith domains. The names range from virtue-led terms like courage.faith to broader dictionary words like access.faith, course.faith, and meaning.faith. For founders, the best choices are usually the words that are easy to say, easy to remember, and clearly aligned with a belief, community, education, or mission-driven brand. For investors, the main question is whether the keyword has enough clarity and relevance to support resale within a niche extension. The median ask is $271, so comparison should center on word quality, fit with .faith, and avoidable risk such as misspellings or ambiguous usage.
+This selection covers 12,600 one-word .faith domain names, pulled from short English words and compact two-word compounds such as tips.faith, homes.faith, and jetblack.faith. The median asking price sits near $371, positioning most of these names as low-cost entries into the .faith extension. For investors, the spread of listings offers a wide, affordable pool to evaluate for resale potential. For founders, the shorter, dictionary-based names in this set—like girls.faith or forces.faith—offer ownable, easy-to-spell options without the premium pricing common on legacy extensions. Updated daily, this list reflects current asking prices across the full range of one-word .faith domains.
 
-- Prioritize words that pair naturally with the .faith extension
-- Compare clarity, memorability, and spoken recall
-- Check pricing against the $271 median ask
-- Avoid misspellings and possible trademark conflicts
+- 12,600 one-word .faith domains, updated daily
+- Median asking price around $371 per domain
+- Mix of short words and compact two-word compounds
+- Includes tips.faith, homes.faith, jetblack.faith
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
