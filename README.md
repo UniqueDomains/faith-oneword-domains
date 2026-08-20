@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .faith one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,517 domains · **Median ask:** $277.20 · **High-demand under $2,500:** 26
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/faith`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,6 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| feel.faith       | premium   | $1,107    | $116          | high           | low    | 4      | namesilo    |
-| bad.faith        | available | —         | —             | high           | high   | 3      | —           |
-| correct.faith    | premium   | $125      | $37.99        | high           | low    | 7      | name.com    |
-| damn.faith       | premium   | $1,250    | $125          | high           | low    | 4      | name.com    |
-| great.faith      | available | —         | —             | high           | high   | 5      | —           |
-| yes.faith        | available | —         | —             | high           | low    | 3      | —           |
 | comp.faith       | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo    |
 | consensus.faith  | resell    | —         | —             | high           | low    | 9      | Porkbun     |
 | act.faith        | premium   | $625      | —             | high           | low    | 3      | name.com    |
@@ -84,6 +78,12 @@ print(df.head())
 | bay.faith        | premium   | $625      | $81.25        | low            | low    | 3      | name.com    |
 | lace.faith       | available | $11.99    | $11.99        | high           | low    | 4      | namesilo    |
 | boo.faith        | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| lang.faith       | available | $11.99    | $11.99        | high           | low    | 4      | namesilo    |
+| boy.faith        | premium   | $625      | —             | medium         | low    | 3      | name.com    |
+| mini.faith       | available | $11.99    | $11.99        | high           | medium | 4      | namesilo    |
+| bye.faith        | premium   | $625      | —             | high           | low    | 3      | name.com    |
+| nail.faith       | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo    |
+| car.faith        | premium   | $650      | $84.50        | high           | medium | 3      | namecheap   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
