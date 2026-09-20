@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .faith one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 28,656 domains · **Median ask:** $218.54 · **High-demand under $2,500:** 31
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/faith`
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | dewy.faith       | available | $11.99    | $11.99        | low            | low    | 4      | namesilo    |
 | unshakable.faith | resell    | —         | —             | high           | low    | 10     | Sav.com LLC |
 | ale.faith        | premium   | $625      | —             | medium         | low    | 3      | name.com    |
-| DSLR.faith       | available | $11.99    | $11.99        | high           | low    | 4      | namesilo    |
+| dslr.faith       | available | $11.99    | $11.99        | high           | low    | 4      | namesilo    |
 | azo.faith        | premium   | $625      | $81.25        | low            | low    | 3      | name.com    |
 | eggs.faith       | available | $11.99    | $11.99        | high           | low    | 4      | namesilo    |
 | bar.faith        | premium   | $625      | —             | high           | low    | 3      | name.com    |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
