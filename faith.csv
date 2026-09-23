@@ -8,7 +8,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 744b47d3-8a26-496f-a9ce-91e8a0083470,olympicflame.faith,available,11.99,11.99,high,low,13,namesilo,,,
 7b503108-b078-4aed-b0b4-32836b031bc7,adhominem.faith,available,11.99,11.99,low,low,10,namesilo,,,
 db47ead0-695f-4c84-a88a-f5f502f3292b,acetous.faith,available,11.99,11.99,low,low,7,namesilo,,,
-007e39dd-ee6a-4f14-b6d4-5ed6e3e5b701,amicable.faith,available,11.99,11.99,high,low,8,namesilo,,,
+007e39dd-ee6a-4f14-b6d4-5ed6e3e5b701,amicable.faith,available,11.99,11.99,medium,low,8,namesilo,,,22/09/2026 04:19
 cf3fad5e-30a9-4ea1-aad5-e65b50db5742,bash.faith,premium,625,,high,low,4,name.com,,,
 0e04fb1f-11a9-4c7b-9de9-3f9a1307f239,geometry.faith,available,16.98,,medium,low,8,namecheap,,,
 da0fc500-a123-4578-b7f4-e78b21019e40,income.faith,available,11.99,11.99,high,low,6,namesilo,,,
@@ -22,7 +22,7 @@ f82c99c2-ce0b-4860-b336-02392f9438c9,phase.faith,available,11.99,11.99,high,low,
 0172abf2-5f94-4ad0-97b7-1641059a2972,namely.faith,available,11.99,11.99,medium,low,6,namesilo,,,
 c200b50e-09f6-4b53-85e6-77fbac9b1cee,story.faith,premium,3125,,high,medium,5,name.com,,,
 665ff053-0483-4b3f-a01a-297a16c37a04,innocence.faith,available,11.99,11.99,high,low,9,namesilo,,,
-6f30b662-9f79-4d5a-b601-ea3c1e1d1119,allergic.faith,available,11.99,11.99,high,low,8,namesilo,,,
+6f30b662-9f79-4d5a-b601-ea3c1e1d1119,allergic.faith,available,11.99,11.99,medium,low,8,namesilo,,,22/09/2026 01:25
 c899a439-27dc-4d4a-942c-69c834dce9a0,atleast.faith,available,11.99,11.99,medium,low,8,namesilo,,,
 51b3951c-e248-424d-ac33-438d91b9ad67,useup.faith,available,11.99,11.99,low,low,6,namesilo,,,
 d9c4c3ff-ceae-4672-8264-4544b7cfef61,bean.faith,premium,116,29.5,medium,low,4,namesilo,,,
@@ -30,7 +30,7 @@ a2484543-82e0-4f68-9e39-71c213e74529,consensus.faith,resell,,,high,low,9,Porkbun
 b7ef2092-319d-4032-b2d6-dc371900197f,newyear.faith,available,11.99,11.99,medium,low,8,namesilo,,,
 1bb006de-1ac4-43cf-a08e-3b3ae5266521,organs.faith,available,11.99,11.99,high,low,6,namesilo,,,
 a77c170b-984c-4217-a459-233c9aafb64e,limiting.faith,available,11.99,11.99,medium,low,8,namesilo,,,
-751811e5-17d7-4211-82f5-cf678f204774,cracked.faith,premium,437.5,62.5,high,low,7,name.com,,,
+751811e5-17d7-4211-82f5-cf678f204774,cracked.faith,premium,448,53.92,low,low,7,namesilo,,,22/09/2026 01:30
 bfa9ae48-28a0-4804-bb92-86a9133151b1,playacting.faith,available,12.98,16.98,low,low,10,namecheap,,,
 fef4bb4e-8315-4b86-b02e-c2f03366ff39,alated.faith,available,11.99,11.99,low,low,6,namesilo,,,
 f76c9bb3-57f0-4dda-b930-1ba805ee0fd6,oil.faith,premium,625,81.25,high,low,3,name.com,,,
@@ -85,7 +85,7 @@ a30aff66-b613-4eb4-b870-1cfbf21b5a52,prior.faith,available,11.99,11.99,medium,lo
 dfbc1376-3d86-4b4b-910b-6f34f292e152,diy.faith,premium,625,,high,low,3,name.com,,,
 6baf0be6-dcbc-4136-b40d-9deb18701f6f,inexpert.faith,available,11.99,11.99,low,low,8,namesilo,,,
 148986ea-9e9d-4fca-95c8-cc1e5665e95d,bellicose.faith,available,11.99,11.99,low,low,9,namesilo,,,09/08/2026 01:44
-ef7424e3-44e3-4ff0-b892-47cc0136cba3,arch.faith,premium,1250,,medium,low,4,name.com,,,
+ef7424e3-44e3-4ff0-b892-47cc0136cba3,arch.faith,premium,1300,130,low,low,4,namecheap,,,22/09/2026 07:38
 9d8987c9-f3e2-42e6-90f5-a91e85548267,verymuch.faith,available,11.99,11.99,high,low,9,namesilo,,,
 fd65e467-ed0c-4124-80af-7aa6af7a9efb,andromeda.faith,premium,437.5,,high,low,9,name.com,,,
 cb8e9de2-4cf5-4762-a387-455ea445df00,attack.faith,premium,640,77.35,medium,low,6,namesilo,,,19/09/2026 14:18
@@ -111,7 +111,7 @@ ce05faf2-f55c-4bd0-a9dd-ab5dc1e7cfbb,razor.faith,available,11.99,11.99,medium,lo
 43ae32ef-386a-41d1-83e3-a440cf78f2d5,bareassed.faith,available,12.98,16.98,low,low,10,namecheap,,,08/08/2026 18:05
 db3d1b16-d15a-47c8-9b3a-b7b5c3a3e43d,kangeroo.faith,available,11.99,11.99,high,low,8,namesilo,,,
 ada09f56-80d4-4717-b19b-28db3081428c,manner.faith,available,11.99,11.99,high,low,6,namesilo,,,
-32ddacae-139c-4792-a219-3b5580c41f64,nail.faith,available,11.99,11.99,medium,low,4,namesilo,,,
+32ddacae-139c-4792-a219-3b5580c41f64,nail.faith,available,11.99,11.99,low,low,4,namesilo,,,21/09/2026 16:04
 2c1c5e56-6b66-40c8-9297-440ce613f02a,plate.faith,available,11.99,11.99,medium,low,5,namesilo,,,
 df64320d-d4f8-485f-853e-796ff70ad8b9,newsgroup.faith,available,16.98,,medium,low,9,namecheap,,,
 5ce3c55f-f128-4bec-8aa2-8e71c315636c,bandy.faith,premium,437.5,62.5,low,low,5,name.com,,,08/08/2026 11:45
@@ -134,15 +134,15 @@ d3e234ce-3d16-4509-b7de-f9aac4cad47f,airplane.faith,premium,625,,high,low,8,name
 474634b7-1759-4c04-9a12-3c9b2adf9895,chance.faith,premium,116,29.5,high,low,6,namesilo,,,
 43d01806-87ee-47f5-8802-d8486c44e1e1,its.faith,premium,625,,high,medium,3,name.com,,,
 c0521347-0827-4b09-a354-abc8b1a67eaa,heel.faith,premium,625,,medium,low,4,name.com,,,
-d088e043-c010-4ef1-a006-fc7545337b95,twentieth.faith,available,11.99,11.99,high,low,9,namesilo,,,
+d088e043-c010-4ef1-a006-fc7545337b95,twentieth.faith,available,11.99,11.99,medium,low,9,namesilo,,,21/09/2026 12:27
 c2ed0f99-ad1a-4ab7-9d4d-72f808e0ae78,amnesic.faith,available,11.99,11.99,low,low,7,namesilo,,,
-f112afb4-8655-4a81-8a04-59ee27831941,selfless.faith,premium,125,37.99,high,low,8,name.com,,,
+f112afb4-8655-4a81-8a04-59ee27831941,selfless.faith,premium,116,29.5,medium,low,8,namesilo,,,22/09/2026 02:51
 389d8094-9477-4eb8-bfe7-ab5a263d0b42,punk.faith,premium,437.5,,high,low,4,name.com,,,
 7c1b03e7-8739-430f-982b-661eaab703ef,istandcorrected.faith,available,11.99,11.99,medium,low,17,namesilo,,,
 3c04abb9-e00c-478e-9935-48d898961c72,cucumber.faith,premium,125,,high,low,8,name.com,,,
 063b5712-b678-4ded-b8a4-e83727ee6dc3,mitigative.faith,available,11.99,11.99,low,low,10,namesilo,,,
 82eaac21-5a52-49f1-89c1-53f8b770a7a1,adorables.faith,premium,437.5,,high,low,9,name.com,,,
-80b62ee1-5dac-4b5b-9a1f-a95057211283,capable.faith,premium,1250,125,high,low,7,name.com,,,
+80b62ee1-5dac-4b5b-9a1f-a95057211283,capable.faith,premium,1300,130,medium,low,7,namecheap,,,21/09/2026 18:33
 3493affb-6973-4490-8a32-71ee409ec742,convenient.faith,available,11.99,11.99,high,low,10,namesilo,,,
 23b3c03a-6cb6-44d0-92d6-bf706761e260,pope.faith,premium,12500,,high,low,4,name.com,,,
 c33f54f0-1b0b-43f7-bfa4-c6733a0fd364,apsidal.faith,available,11.99,11.99,low,low,7,namesilo,,,06/08/2026 10:18
@@ -155,7 +155,7 @@ b32c2cf0-4204-46a1-92e6-9b70c59ea122,ametabolic.faith,available,11.99,11.99,low,
 09c76128-0e72-4991-8773-f3425dd1c3c7,anybody.faith,premium,125,,medium,low,7,name.com,,,
 621de090-398c-49a8-8558-5159db84f082,laurelandhardy.faith,premium,437.5,,medium,low,16,name.com,,,
 b688f237-6085-4b98-84d3-d754c5c07d8f,acrophobic.faith,available,11.99,11.99,low,low,10,namesilo,,,
-aa03f05b-ba64-41e5-8449-2904da24c122,fuzzy.faith,available,11.99,11.99,high,low,5,namesilo,,,
+aa03f05b-ba64-41e5-8449-2904da24c122,fuzzy.faith,available,11.99,11.99,low,low,5,namesilo,,,22/09/2026 23:28
 37d3d8f8-c1cc-4a18-8c23-c63d08f5cac2,list.faith,premium,3125,,high,low,4,name.com,,,
 0d0f799c-7836-4f3a-875e-7af848067507,idarebebound.faith,available,11.99,11.99,medium,low,15,namesilo,,,
 161c7963-8160-4e54-b778-4b039c9bceb0,databaseanalyst.faith,available,16.98,,medium,low,16,namecheap,,,
@@ -166,7 +166,7 @@ b1e39b56-814c-43e6-8f28-8f96b1a4ea13,her.faith,premium,625,,medium,low,3,name.co
 3fd872c0-e12b-476e-9d60-75fc6720b336,ifallen.faith,available,11.99,11.99,medium,low,8,namesilo,,,
 d73ba857-e694-4c4f-9dbe-ae94c63a5588,bridget.faith,premium,125,,high,low,7,name.com,,,
 9904e585-16ab-4062-9191-6e45982fb978,englishspeaking.faith,available,11.99,11.99,medium,low,16,namesilo,,,
-3a00c480-78ab-484f-afac-c58eac2f0971,cover.faith,premium,116,29.5,high,low,5,namesilo,,,
+3a00c480-78ab-484f-afac-c58eac2f0971,cover.faith,premium,116,29.5,medium,low,5,namesilo,,,22/09/2026 21:52
 6a9ecca8-334a-4559-b20e-38830e7e39bd,nowandagain.faith,available,11.99,11.99,low,low,13,namesilo,,,
 062ca9be-eb22-4ead-b57c-accf57e146d7,helminthic.faith,available,11.99,11.99,low,low,10,namesilo,,,
 f8e614b1-618b-4ba5-9246-c781d47a1b33,roller.faith,available,16.98,,high,low,6,namecheap,,,
@@ -211,20 +211,20 @@ c1e25863-5712-4b2b-9019-996207687908,tug.faith,premium,625,,high,low,3,name.com,
 edd5c87e-c5d7-4627-a685-a870d479d24f,hang.faith,premium,116,29.5,high,low,4,namesilo,,,
 4eb08c1a-7457-4f94-8565-d05b3699c096,perceiving.faith,available,16.98,,high,low,10,namecheap,,,
 718760a5-0210-49e3-8ae6-a109983689b5,mouthtomouth.faith,available,16.98,,low,low,14,namecheap,,,
-6c458f6e-747f-4373-a258-ea1d4596989b,subsidiary.faith,available,11.99,11.99,high,low,10,namesilo,,,
+6c458f6e-747f-4373-a258-ea1d4596989b,subsidiary.faith,available,34.99,37.99,medium,low,10,name.com,,,22/09/2026 14:17
 84122f6d-a83f-41ea-8369-a0d59292a5e0,twinkly.faith,available,11.99,11.99,low,low,7,namesilo,,,09/08/2026 04:13
 6abff14e-f4ce-43a5-99cf-dbb4dc7f1e50,allergy.faith,premium,625,,high,low,7,name.com,,,
 9783a1e6-98b3-42a8-83f2-e50b05481e99,hangloose.faith,premium,437.5,,high,low,10,name.com,,,
 3aa4c746-24ee-406e-b2d4-2dfca2e3664b,grinning.faith,available,11.99,11.99,high,low,8,namesilo,,,
 99bc657c-11be-4d9b-bf19-41e958b33bef,cleveland.faith,available,,,medium,low,9,,,,
 5ce06f34-2527-44bb-912f-7c26761cc06a,convince.faith,premium,116,29.5,high,low,8,namesilo,,,
-453f9940-96ab-490c-a880-62363142ef02,basic.faith,premium,1107,116,medium,low,5,namesilo,,,
+453f9940-96ab-490c-a880-62363142ef02,basic.faith,premium,1300,130,low,low,5,namecheap,,,22/09/2026 17:57
 e833b9c2-0685-421e-aab5-b079716d3e18,trip.faith,premium,1107,116,medium,low,4,namesilo,,,08/09/2026 04:57
 5b319647-8bb4-4cc2-b007-48860026344c,beetling.faith,available,11.99,11.99,low,low,8,namesilo,,,09/08/2026 08:22
 c95d6d6d-a204-436d-b0e3-e35f16396a05,saucepan.faith,available,11.99,11.99,high,low,8,namesilo,,,
 4f2794c2-8c7d-42bf-b155-cfe8bd1b116e,moment.faith,premium,625,,high,low,6,name.com,,,
 4bfa1bba-da25-4e13-86f0-9b466b0e52e8,chips.faith,premium,437.5,,high,low,5,name.com,,,
-7df6c695-7fdd-4b3b-b470-90f98f0a4545,amorous.faith,premium,437.5,62.5,high,low,7,name.com,,,
+7df6c695-7fdd-4b3b-b470-90f98f0a4545,amorous.faith,premium,448,53.92,medium,low,7,namesilo,,,22/09/2026 03:25
 d2c1e144-5a91-435e-9402-3645af947e39,friendship.faith,available,11.99,11.99,high,low,10,namesilo,,,
 2818c06c-03f0-487e-9124-77941d7e76e2,ecru.faith,premium,437.5,62.5,low,low,4,name.com,,,09/08/2026 12:26
 ea9ee22c-3283-4494-a346-c4d847d52dbd,abuzz.faith,premium,437.5,62.5,low,low,5,name.com,,,
@@ -239,17 +239,17 @@ b4c9b6ce-dc5f-48d0-b2a9-2407006703ce,effectively.faith,available,11.99,11.99,med
 d619470a-8a6e-47e5-912f-c317be5a7908,phoney.faith,available,11.99,11.99,low,low,6,namesilo,,,08/08/2026 23:14
 d367446c-16d2-459d-8361-4682e01377cd,lowpriced.faith,available,11.99,11.99,low,low,10,namesilo,,,
 e14cf752-b8dd-4ac7-9841-ee01c792dc14,times.faith,premium,437.5,,high,low,5,name.com,,,
-18359315-72d0-4891-b93b-a0560b54feb7,chief.faith,available,11.99,11.99,high,low,5,namesilo,,,
-f9d49c65-eee1-4f39-b4ee-2318f2c7c9f1,abandoned.faith,available,11.99,11.99,medium,low,9,namesilo,,,
+18359315-72d0-4891-b93b-a0560b54feb7,chief.faith,available,11.99,11.99,medium,low,5,namesilo,,,23/09/2026 00:59
+f9d49c65-eee1-4f39-b4ee-2318f2c7c9f1,abandoned.faith,available,11.99,11.99,low,low,9,namesilo,,,21/09/2026 13:36
 cfe69ffc-02d7-43d9-9a7a-deb154671fca,vibrate.faith,premium,116,29.5,high,low,7,namesilo,,,
-00d8f6ca-b888-4f33-81ca-3397e2179116,dreadful.faith,premium,116,29.5,high,low,8,namesilo,,,
+00d8f6ca-b888-4f33-81ca-3397e2179116,dreadful.faith,premium,116,29.5,low,low,8,namesilo,,,22/09/2026 15:15
 ecb30887-089d-4e6a-9bdf-e6d13c252a84,prevention.faith,available,11.99,11.99,medium,low,10,namesilo,,,08/09/2026 14:09
 4f5e4726-9bb2-44ea-98d9-79a92430d2e9,siamesecat.faith,available,11.99,11.99,high,low,11,namesilo,,,
 5a5c7b13-ec12-46c9-ad69-14aa0fda9d4f,manytime.faith,available,16.98,,medium,low,9,namecheap,,,
 d2af8460-e7ff-4e5e-8b1c-73854c27c54b,november.faith,available,11.99,11.99,high,low,8,namesilo,,,
-d71405e9-7cf9-41bf-bd09-2c3700e909da,damn.faith,premium,1250,125,high,low,4,name.com,,,20/09/2026 02:17
-26303c96-fba1-4525-a8d1-d122ed0bcd77,adorable.faith,available,11.99,11.99,high,low,8,namesilo,,,
-b4e22d21-fc74-47d4-8976-627cba4cf903,acknowledge.faith,premium,125,,high,low,11,name.com,,,
+d71405e9-7cf9-41bf-bd09-2c3700e909da,damn.faith,premium,1107,116,medium,low,4,namesilo,,,22/09/2026 00:35
+26303c96-fba1-4525-a8d1-d122ed0bcd77,adorable.faith,available,12.98,16.98,medium,low,8,namecheap,,,21/09/2026 19:18
+b4e22d21-fc74-47d4-8976-627cba4cf903,acknowledge.faith,premium,125,,medium,low,11,name.com,,,
 c1590c3d-6f43-422f-8298-a5c717aac114,pita.faith,premium,437.5,,high,low,4,name.com,,,
 df06cbc3-e8a3-47a7-9027-def4332aa5c0,atsixandseven.faith,available,11.99,11.99,medium,low,16,namesilo,,,
 c557ed61-9187-473b-8681-5887b8b74404,havegot.faith,available,11.99,11.99,high,low,8,namesilo,,,
@@ -264,18 +264,18 @@ e33b142f-72ab-4bdd-b64c-1a3d8f9002c7,humourous.faith,available,11.99,11.99,high,
 8c20e333-1761-446e-bc49-334aa24efaab,thank.faith,premium,625,,high,low,5,name.com,,,
 d195d2d9-48d9-489c-b7df-744282eb8aa3,elusive.faith,available,11.99,11.99,low,low,7,namesilo,,,08/08/2026 08:07
 1cd82de3-fd67-45dd-a27a-66b417e5fdef,slick.faith,available,11.99,11.99,medium,low,5,namesilo,,,
-d1eff4e9-ce9d-4f4a-aef3-2641631f70cb,whatsoever.faith,available,16.98,,medium,low,10,namecheap,,,
+d1eff4e9-ce9d-4f4a-aef3-2641631f70cb,whatsoever.faith,available,11.99,11.99,low,low,10,namesilo,,,22/09/2026 06:59
 25e4a1eb-91c2-40ea-a6c1-85c151f8558b,ascetical.faith,available,11.99,11.99,low,low,9,namesilo,,,07/08/2026 01:01
-a7c315f3-8250-42fe-9d5b-f77128a9f8b4,alpha.faith,premium,125,37.99,high,medium,5,name.com,,,
+a7c315f3-8250-42fe-9d5b-f77128a9f8b4,alpha.faith,premium,116,29.5,medium,low,5,namesilo,,,22/09/2026 02:07
 e4db2746-0b38-40f7-af8e-8b0440895843,sham.faith,premium,1107,116,low,low,4,namesilo,,,07/08/2026 08:06
 1f308eed-be79-433e-8652-d6dbf667352b,shaper.faith,premium,437.5,,high,low,6,name.com,,,
-79c62765-3b2e-4286-8d30-34478b76fa60,responsive.faith,available,11.99,11.99,high,low,10,namesilo,,,
+79c62765-3b2e-4286-8d30-34478b76fa60,responsive.faith,available,12.98,16.98,medium,low,10,namecheap,,,22/09/2026 06:49
 58f6bf8d-578d-4375-bd3d-6cbe9497e447,whotheheck.faith,available,11.99,11.99,low,low,12,namesilo,,,
 d8ffea1e-ab0b-4e04-9fd3-a2530be7422d,insurancecarrier.faith,available,11.99,11.99,medium,low,17,namesilo,,,
 3021f86d-b099-4d97-b7df-8d39909a1aef,some.faith,premium,1107,116,medium,low,4,namesilo,,,19/09/2026 12:35
 1d56e9fe-c671-4a7c-b29a-b090cc0994fc,whenever.faith,premium,625,,low,low,8,name.com,,,
 d2d8cada-619b-4ecc-88af-47a19e915687,purchase.faith,available,11.99,11.99,medium,low,8,namesilo,,,
-fa368fed-b14b-473f-844c-0b7dc530ffd4,amazed.faith,premium,1107,116,high,low,6,namesilo,,,
+fa368fed-b14b-473f-844c-0b7dc530ffd4,amazed.faith,premium,1107,116,low,low,6,namesilo,,,22/09/2026 03:33
 bf163b80-030e-4c29-9b41-68c7eaed0cfb,identify.faith,available,11.99,11.99,high,low,8,namesilo,,,
 c7c93668-0f94-44c5-b7b6-38bb5db3b2df,biteme.faith,premium,437.5,,medium,low,7,name.com,,,
 2611692b-aa7c-4e3d-b4a3-d8f7d5b7b76c,experienced.faith,available,11.99,11.99,high,low,11,namesilo,,,
@@ -290,7 +290,7 @@ d3448fa6-f3c2-45e5-a0ba-156a6e1abda1,uml.faith,premium,625,,high,low,3,name.com,
 6cc5e8aa-c169-4353-be1b-8061dce26dfe,knew.faith,available,11.99,11.99,medium,low,4,namesilo,,,
 30b093ad-34a6-4f5f-8c67-95011ee66762,evenchance.faith,available,11.99,11.99,high,low,11,namesilo,,,
 83086e43-9bad-4672-ab83-9bb62dbad596,lowrise.faith,available,11.99,11.99,high,low,8,namesilo,,,
-6658fb81-5490-4e71-8d02-a3810340141f,annual.faith,premium,625,,high,low,6,name.com,,,
+6658fb81-5490-4e71-8d02-a3810340141f,annual.faith,premium,650,84.5,medium,low,6,namecheap,,,22/09/2026 05:27
 2db8672e-1c0e-4242-b8f7-940a91297a84,pardon.faith,premium,437.5,,high,low,6,name.com,,,
 3a463146-4a15-4985-bb2f-8748dd6ba83f,heatup.faith,premium,437.5,,high,low,7,name.com,,,
 24099378-61d4-4bdb-8c25-edca82c2f503,volkswagen.faith,premium,437.5,,high,low,10,name.com,,,
@@ -308,7 +308,6 @@ d5947b8f-b960-4ad0-b3cf-7289986181b6,howaboutno.faith,available,16.98,,medium,lo
 2b725ab5-4d78-4b67-a45b-c4133f3b54d0,bonus.faith,premium,125,,high,low,5,name.com,,,
 7f4b13e3-7407-401e-a155-23d302a9b7a0,rhiannon.faith,premium,437.5,,high,low,8,name.com,,,
 183a423e-d57b-4deb-a5ef-d905eba37690,placating.faith,available,11.99,11.99,low,low,9,namesilo,,,06/08/2026 06:02
-7df1c5a5-ac16-4bb0-a467-29ff2deb17fd,sexy.faith,available,,,high,high,4,,,,
 0ea9dc2c-6987-45e5-8b09-aab3f61741d4,avid.faith,premium,437.5,62.5,medium,low,4,name.com,,,07/08/2026 23:21
 c8a736a4-8b73-493c-8a3a-966999d326d4,getoutofhere.faith,available,16.98,,high,low,15,namecheap,,,
 c5c68585-3dd7-44aa-8433-1402f18fb489,pub.faith,premium,625,,high,low,3,name.com,,,
@@ -323,7 +322,7 @@ e9319879-9420-404a-8804-bca6a79c2caa,cleaver.faith,available,11.99,11.99,medium,
 53c1f5a6-1619-43db-8d93-cf0991ede656,deepsleep.faith,premium,437.5,,high,low,10,name.com,,,
 84bc7fe7-ffcc-4d95-a9e8-7a0d53c358c9,proficiency.faith,premium,437.5,,medium,low,11,name.com,,,
 8720bad1-9d05-4827-9d9e-a59f68af4736,increased.faith,available,11.99,11.99,high,low,9,namesilo,,,
-e2350981-b16c-4b9f-96df-95c2511308ef,plotted.faith,available,11.99,11.99,high,low,7,namesilo,,,
+e2350981-b16c-4b9f-96df-95c2511308ef,plotted.faith,available,11.99,11.99,low,low,7,namesilo,,,21/09/2026 22:10
 17c82368-61a1-4b98-a6a5-4997ff66c375,cometoahead.faith,available,16.98,,medium,low,14,namecheap,,,
 04edccca-8d63-49aa-a5b5-95b91661f926,quantity.faith,available,11.99,11.99,medium,low,8,namesilo,,,
 82fcb89e-b1f3-4280-ac20-144886e1b66a,shush.faith,available,11.99,11.99,medium,low,5,namesilo,,,
@@ -332,12 +331,11 @@ e2350981-b16c-4b9f-96df-95c2511308ef,plotted.faith,available,11.99,11.99,high,lo
 828745ed-5d3e-4016-b79c-2e77038adb33,sevener.faith,available,11.99,11.99,low,low,7,namesilo,,,
 7e5de99f-fbfd-4171-a8f9-a7b790e9f70e,streets.faith,premium,437.5,,high,low,7,name.com,,,
 ee775662-da88-430e-86a2-f58012731526,fiftyfifty.faith,premium,437.5,,high,low,11,name.com,,,
-2275ba32-ff4a-4a7a-a7ed-19899633b0ca,larger.faith,available,11.99,11.99,high,low,6,namesilo,,,
 ac3312fa-27c2-4006-8939-32535d0bcf76,sophisticated.faith,available,11.99,11.99,high,low,13,namesilo,,,
 8cf364d5-9307-401b-8b34-ea728055337b,abortive.faith,available,11.99,11.99,low,low,8,namesilo,,,
 20ea6f5c-24a9-4cef-aa80-be57de651d0d,limo.faith,premium,437.5,,high,low,4,name.com,,,
 79d5eced-f09e-49a5-8d97-ee0c9912189c,aired.faith,premium,116,29.5,low,low,5,namesilo,,,
-8bb35f94-92c2-4b3c-9337-6d6edb7aca8f,heavy.faith,premium,125,,high,low,5,name.com,,,
+8bb35f94-92c2-4b3c-9337-6d6edb7aca8f,heavy.faith,premium,125,37.99,medium,low,5,name.com,,,22/09/2026 07:40
 d1d4d4cb-ff94-478d-95af-efd711510da7,siberian.faith,available,11.99,11.99,high,low,8,namesilo,,,
 3e4bdf5a-86c8-4992-b247-bf5f45af986a,laughter.faith,available,11.99,11.99,high,low,8,namesilo,,,
 8d3adb0d-39d2-4c30-968e-f31095f42c63,germanchamomile.faith,available,11.99,11.99,high,low,16,namesilo,,,
@@ -345,8 +343,8 @@ f5c2d15f-bba7-4a79-b89e-f598734eee23,azo.faith,premium,625,81.25,low,low,3,name.
 d6a895e2-88d9-4567-8adf-afe74b5f66cb,matter.faith,available,11.99,11.99,medium,low,6,namesilo,,,
 2534484c-0171-4b92-be4b-5b0f764589c9,darkweb.faith,available,11.99,11.99,medium,low,8,namesilo,,,
 68298c63-d4cd-464b-b8c5-ad14a95eaa33,waitinglist.faith,available,11.99,11.99,medium,low,12,namesilo,,,
-d98125a1-c0b6-4870-8acf-1070d9305dd6,xiv.faith,premium,625,81.25,high,low,3,name.com,,,
-fd1dfd92-7643-47e6-a139-7b9db7084799,fused.faith,premium,437.5,62.5,medium,low,5,name.com,,,
+d98125a1-c0b6-4870-8acf-1070d9305dd6,xiv.faith,premium,640,77.35,medium,low,3,namesilo,,,21/09/2026 11:42
+fd1dfd92-7643-47e6-a139-7b9db7084799,fused.faith,premium,448,53.92,low,low,5,namesilo,,,22/09/2026 03:03
 f43329cd-01c8-4879-a7d8-11c9fbab66fa,reference.faith,available,11.99,11.99,high,low,9,namesilo,,,
 747cf276-cfa2-4def-b3d9-c2a3fdd67b25,herbalmedicine.faith,available,11.99,11.99,high,low,15,namesilo,,,
 2fb28e5e-1ee6-4bcc-8802-01b273c37674,antic.faith,premium,437.5,62.5,low,low,5,name.com,,,
@@ -357,8 +355,8 @@ d5cc76a7-a255-40f2-b7eb-2d1b4d67d006,mac.faith,premium,625,,high,high,3,name.com
 8a1c3c9a-eb75-414f-b96d-b939d081b531,grotesque.faith,available,11.99,11.99,low,low,9,namesilo,,,
 8e2f4af0-11a1-4466-80bf-9740bda1e79d,araceous.faith,available,11.99,11.99,low,low,8,namesilo,,,06/08/2026 11:36
 aee985fd-efb9-4107-919d-5292e977be01,defence.faith,premium,125,,high,low,7,name.com,,,
-812a337b-366e-4a01-8d61-434a61e91413,aerobic.faith,premium,437.5,62.5,high,low,7,name.com,,,
-b9b7e722-e029-4875-9b52-af86e3de8a2c,recognized.faith,available,11.99,11.99,high,low,10,namesilo,,,
+812a337b-366e-4a01-8d61-434a61e91413,aerobic.faith,premium,455,65,medium,low,7,namecheap,,,21/09/2026 21:01
+b9b7e722-e029-4875-9b52-af86e3de8a2c,recognized.faith,available,11.99,11.99,medium,low,10,namesilo,,,21/09/2026 15:28
 fe1943ae-eee3-4497-892a-430cf50df223,plantcommunity.faith,available,16.98,,high,low,15,namecheap,,,
 e8667122-cfa2-47d0-96b8-0beeac116a60,ashgray.faith,available,11.99,11.99,low,low,8,namesilo,,,07/08/2026 01:59
 5c9a3943-1fd9-4404-bf05-cf476860a26d,ribbon.faith,available,11.99,11.99,high,low,6,namesilo,,,
@@ -377,7 +375,7 @@ a3414902-ca54-4b64-a933-ff4d96602d0f,worldexpo.faith,available,11.99,11.99,low,l
 00eb2da8-527c-413a-a166-f25dc5f89962,azoic.faith,available,11.99,11.99,low,low,5,namesilo,,,08/08/2026 02:22
 a9d727e9-336e-4d96-9c1f-41b65a3987b0,alary.faith,available,11.99,11.99,low,low,5,namesilo,,,
 0c090d99-8c3a-4f46-a79d-2acfc4a8a320,kick.faith,available,,,high,low,4,,,,
-0d1a56bd-5fbe-42fa-92af-ad0fbd388a20,wasted.faith,premium,437.5,,medium,low,6,name.com,,,
+0d1a56bd-5fbe-42fa-92af-ad0fbd388a20,wasted.faith,premium,448,53.92,low,low,6,namesilo,,,22/09/2026 11:10
 4856f631-5ca3-4a2a-ad6c-21eacb239100,apophyseal.faith,available,11.99,11.99,low,low,10,namesilo,,,06/08/2026 03:24
 8b1b68cc-8615-41fe-a002-74740cbd4325,cornering.faith,available,11.99,11.99,medium,low,9,namesilo,,,
 09eb99b0-c3b9-4397-a74d-10d4de9c79dd,neck.faith,available,11.99,11.99,high,low,4,namesilo,,,
@@ -401,7 +399,7 @@ d47f592f-edd5-4a85-96c5-55feca37db50,whitevanman.faith,available,11.99,11.99,low
 a2394dae-30ad-4952-9c58-cfee45008f0c,articular.faith,available,11.99,11.99,low,low,9,namesilo,,,06/08/2026 23:26
 6a9bdfd9-dc6b-4b69-9a0b-a9fb37bbfc60,mini.faith,available,11.99,11.99,high,medium,4,namesilo,,,
 9ab772bf-4735-4d11-8bff-e13405fab180,comprehend.faith,available,11.99,11.99,high,low,10,namesilo,,,
-5f313c34-48f7-4bc3-a9cc-bc9d0649d558,tech.faith,premium,1107,116,medium,low,4,namesilo,,,20/09/2026 23:06
+5f313c34-48f7-4bc3-a9cc-bc9d0649d558,tech.faith,premium,1107,116,medium,low,4,namesilo,,,23/09/2026 02:37
 e56a719c-2098-4c56-803e-914c523bf2a1,rednoseday.faith,premium,437.5,,low,low,12,name.com,,,
 91a67c6a-8e4a-4eda-9de4-90ba979680b4,azimuthal.faith,available,11.99,11.99,low,low,9,namesilo,,,08/08/2026 02:11
 18544ec5-158e-4be4-9512-f760a40ca15b,allweathertyre.faith,available,11.99,11.99,high,low,16,namesilo,,,
@@ -411,7 +409,7 @@ cabfc437-abf2-43c2-8d68-fda9301a0a42,unaired.faith,available,11.99,11.99,low,low
 205d3b90-c754-41e1-ab5f-d9c85f6f1ffb,gobythenameof.faith,available,16.98,,medium,low,17,namecheap,,,
 81a7b6ed-5662-4310-a678-2001dbd1493d,sombuddy.faith,available,11.99,11.99,medium,low,8,namesilo,,,
 1c99408d-ec9a-4b45-bab1-e4522282d880,recover.faith,premium,625,,high,low,7,name.com,,,
-c6da413b-d180-438d-b8cf-2de1b8e35d12,atheist.faith,premium,3125,,high,low,7,name.com,,,
+c6da413b-d180-438d-b8cf-2de1b8e35d12,atheist.faith,premium,3250,130,low,low,7,namecheap,,,22/09/2026 10:58
 0fb0ce7a-51c3-4989-985f-2db6c718d071,balsamy.faith,available,11.99,11.99,low,low,7,namesilo,,,08/08/2026 10:36
 5028e435-e2e5-4efb-baf6-b445b9571542,affinity.faith,available,,,high,low,8,,,,
 5c2124a6-dcd0-49b3-907d-bc4d1fa544cd,barbarous.faith,available,11.99,11.99,low,low,9,namesilo,,,08/08/2026 15:40
@@ -437,10 +435,10 @@ b077032a-307e-4d80-afe6-6c81c8e81636,allover.faith,premium,437.5,62.5,low,low,8,
 079bb8a3-3485-4d66-a440-731a58ce7c8c,newbie.faith,premium,116,29.5,medium,low,6,namesilo,,,
 87aa14dc-58c0-4a3d-8891-30a96d3dbb7a,eggs.faith,available,11.99,11.99,high,low,4,namesilo,,,
 e1999780-7b26-44a7-bd5e-b33c11389313,alchemical.faith,available,11.99,11.99,low,low,10,namesilo,,,
-64eb623f-fcf8-4e99-b8d3-d4d292c9073b,invigorate.faith,premium,437.5,,high,low,10,name.com,,,
+64eb623f-fcf8-4e99-b8d3-d4d292c9073b,invigorate.faith,premium,448,53.92,medium,low,10,namesilo,,,22/09/2026 04:52
 d38bfee6-d5af-4325-be8a-29b8485688f7,despise.faith,available,11.99,11.99,medium,low,7,namesilo,,,
-40cfc111-1799-4230-a164-87dc7f1faf9f,dessert.faith,premium,116,29.5,medium,low,7,namesilo,,,19/09/2026 09:08
-b27753d9-bf9b-4cd1-bb18-02511c07c9ea,accurate.faith,available,11.99,11.99,high,low,8,namesilo,,,
+40cfc111-1799-4230-a164-87dc7f1faf9f,dessert.faith,premium,116,29.5,medium,low,7,namesilo,,,23/09/2026 04:26
+b27753d9-bf9b-4cd1-bb18-02511c07c9ea,accurate.faith,available,11.99,11.99,medium,low,8,namesilo,,,21/09/2026 15:59
 ceb189f5-6ccc-4233-98f3-dfc781f66ae7,fourscore.faith,available,12.98,16.98,low,low,9,namecheap,,,
 9e9108c0-50fa-44b0-9d23-14b973cbd644,enterontheboards.faith,available,11.99,11.99,medium,low,19,namesilo,,,
 17792de8-b52b-4b24-9313-5c68b932645e,djia.faith,premium,437.5,,medium,low,4,name.com,,,
@@ -450,7 +448,7 @@ ceb189f5-6ccc-4233-98f3-dfc781f66ae7,fourscore.faith,available,12.98,16.98,low,l
 01230487-244f-47de-ada5-4bfbcdbc6bb8,chirping.faith,available,11.99,11.99,high,low,8,namesilo,,,
 3dcfd261-f139-4890-9ca2-d80e1e5ff474,eightytwo.faith,available,11.99,11.99,low,low,10,namesilo,,,
 0e3c2f96-17f8-4b7a-83ef-f241424f8cb6,lxxvi.faith,available,12.98,16.98,low,low,5,namecheap,,,
-533cad84-69d1-48cb-9647-8d38b9b7921e,guess.faith,premium,437.5,,high,high,5,name.com,,,
+533cad84-69d1-48cb-9647-8d38b9b7921e,guess.faith,premium,448,53.92,medium,low,5,namesilo,,,23/09/2026 04:46
 6fa82c52-123d-4d5c-a6b3-ec5179189bd7,hundredth.faith,available,11.99,11.99,low,low,9,namesilo,,,
 875cd8a3-52f7-4f13-a586-a81e43d3de6d,brightness.faith,available,16.98,,high,low,10,namecheap,,,
 b80e9403-4bc9-4ae5-82d4-4365000bd1ee,embracing.faith,premium,116,29.5,high,low,9,namesilo,,,
@@ -489,7 +487,7 @@ e6a4df81-b1e9-41de-90c8-43419d9f9b19,ghostlike.faith,available,11.99,11.99,low,l
 ba80771d-e54a-4a8d-89b2-087c535d6c76,bacon.faith,premium,437.5,,medium,low,5,name.com,,,
 374399cc-7bdb-4f50-b482-a07ce53d8eec,luncheonsausage.faith,available,11.99,11.99,high,low,16,namesilo,,,
 07683bfa-55b0-46d3-8cf8-850d9ae55eb0,theyre.faith,available,11.99,11.99,medium,low,6,namesilo,,,
-f13bdeeb-61fa-4736-bda3-eb3a570b8e08,angelical.faith,available,11.99,11.99,medium,low,9,namesilo,,,
+f13bdeeb-61fa-4736-bda3-eb3a570b8e08,angelical.faith,available,11.99,11.99,medium,low,9,namesilo,,,22/09/2026 04:27
 35b55c07-7450-4413-aac7-276d3c18da7f,stubborn.faith,available,11.99,11.99,high,low,8,namesilo,,,
 b972fa0a-f10b-4ac1-bef7-ef002a7a80d1,sunbelt.faith,premium,437.5,,high,low,7,name.com,,,
 9ab9dcd0-ffb2-4b80-93f3-924c9cf99e69,pair.faith,available,11.99,11.99,medium,low,4,namesilo,,,
@@ -525,7 +523,6 @@ bac0d4df-91f1-4b63-b6a8-ceb2be8fa14e,windmill.faith,premium,448,53.92,low,low,9,
 18209711-deb0-4b67-84a5-348562714f65,teamwork.faith,premium,3125,,high,low,8,name.com,,,
 5881f733-1ee7-49db-add8-cab157ee28fb,ascribable.faith,available,11.99,11.99,low,low,10,namesilo,,,07/08/2026 01:17
 8dca29f4-5863-4857-8d57-be8379b23d3f,alfresco.faith,premium,437.5,62.5,low,low,8,name.com,,,
-bea37725-ad03-47ce-974f-e07483ad0abe,counter.faith,available,,,high,high,7,,,,
 a6aabc68-561a-4b97-a763-756fc9652a50,airline.faith,premium,130,32.5,high,low,7,namecheap,,,
 be65ce1b-6f0c-4927-926a-2831ebd0442e,cadillac.faith,premium,437.5,,high,low,8,name.com,,,
 06196be6-dba9-4f71-a798-8979cc605e35,legend.faith,premium,116,29.5,high,low,6,namesilo,,,
@@ -542,7 +539,7 @@ a415ed4c-5bd8-420a-a087-6884ea0d060f,qualification.faith,available,11.99,11.99,m
 7233efe5-301a-4082-978e-ef302c41735d,wordblind.faith,available,11.99,11.99,low,low,10,namesilo,,,
 d0401640-3d4e-4928-9cb4-b525b2cfee0b,atworst.faith,available,11.99,11.99,medium,low,8,namesilo,,,
 4377e87e-9a56-42d4-9689-b052e7834ef6,toilsome.faith,available,11.99,11.99,low,low,8,namesilo,,,06/08/2026 17:16
-629e097d-62c6-4251-9826-b443d424ba3e,wake.faith,premium,1107,116,high,low,4,namesilo,,,
+629e097d-62c6-4251-9826-b443d424ba3e,wake.faith,premium,1107,116,low,low,4,namesilo,,,22/09/2026 14:42
 456ddf89-e8d6-4805-8dfb-a5d95e42aac4,wipeup.faith,available,16.98,,high,low,7,namecheap,,,
 793acb9e-0545-4a5d-922a-43f8d0feb591,pleasing.faith,available,11.99,11.99,high,low,8,namesilo,,,
 5baf5deb-62bd-40bf-aa4c-ea7bb6f69042,acneiform.faith,available,11.99,11.99,low,low,9,namesilo,,,
@@ -552,7 +549,7 @@ fd6d0402-7a7b-4a89-a798-c794eb7d5e8c,sperm.faith,premium,116,29.5,high,low,5,nam
 d4ae16df-b18e-4a1c-af6c-cb9fec902680,writedown.faith,available,11.99,11.99,medium,low,10,namesilo,,,
 707ca924-95f5-4483-89f3-a935b3572520,fiercely.faith,premium,116,29.5,medium,low,8,namesilo,,,
 431470b1-6d12-48ce-b340-e00bb2012c18,gstring.faith,available,11.99,11.99,medium,low,8,namesilo,,,
-0b590746-2390-4287-9436-5915961aff95,assisted.faith,available,11.99,11.99,medium,low,8,namesilo,,,
+0b590746-2390-4287-9436-5915961aff95,assisted.faith,available,11.99,11.99,low,low,8,namesilo,,,21/09/2026 23:41
 b9eb6a26-74c5-4285-bc77-6c8e65d830e3,soaker.faith,premium,437.5,62.5,low,low,6,name.com,,,
 9a8ef9a0-a1f9-4f11-ac88-8f9d9be83071,chimney.faith,available,11.99,11.99,high,low,7,namesilo,,,
 34906aef-6446-4d20-b8aa-fa90f6b56d98,auxinic.faith,available,11.99,11.99,low,low,7,namesilo,,,07/08/2026 21:34
@@ -560,9 +557,8 @@ b9eb6a26-74c5-4285-bc77-6c8e65d830e3,soaker.faith,premium,437.5,62.5,low,low,6,n
 18710051-f341-429e-935d-7f4606d0605a,agonised.faith,available,11.99,11.99,low,low,8,namesilo,,,
 efc272c1-9b4d-44dc-8af7-35bd81f2667f,flight.faith,premium,130,32.5,high,low,6,namecheap,,,
 b52ba931-1634-4732-801a-cc61447e065c,briary.faith,available,11.99,11.99,low,low,6,namesilo,,,08/08/2026 17:02
-0fa38fc8-9aa9-43bd-a2ad-a9324eb05a52,buggy.faith,available,11.99,11.99,high,low,5,namesilo,,,
+0fa38fc8-9aa9-43bd-a2ad-a9324eb05a52,buggy.faith,available,11.99,11.99,low,low,5,namesilo,,,22/09/2026 08:13
 0216bea9-4a66-442c-91ec-654c9e5df083,passcode.faith,available,11.99,11.99,high,low,8,namesilo,,,
-8091b69e-ea7b-45f8-8be5-9ed9484d92b0,domain.faith,available,,,high,low,6,,,,
 ae3e696f-f411-4181-a2ff-0af8dcfdda07,respectful.faith,available,16.98,,high,low,10,namecheap,,,
 3e2d813c-19e7-4a76-80d9-860130e335f6,jan.faith,premium,625,,high,low,3,name.com,,,
 45e133fb-5a0c-4b6b-bdb7-048aa30d6d78,phrase.faith,available,11.99,11.99,high,low,6,namesilo,,,
@@ -580,7 +576,7 @@ f8f146a4-7ade-445a-891f-e4559106cc7b,cryout.faith,available,11.99,11.99,high,low
 c5fd1270-833a-4eb1-8129-572a85448d97,onehundred.faith,available,11.99,11.99,low,low,11,namesilo,,,
 5488f07d-f1c8-4318-b3a5-7df1b8a88e03,drawing.faith,available,11.99,11.99,high,low,7,namesilo,,,
 1f3247e6-6e6f-4831-bceb-81599b9abc78,approving.faith,available,11.99,11.99,low,low,9,namesilo,,,06/08/2026 08:49
-76ca269b-ca96-44d9-bd79-6258828452ec,important.faith,available,11.99,11.99,high,low,9,namesilo,,,
+76ca269b-ca96-44d9-bd79-6258828452ec,important.faith,available,11.99,11.99,medium,low,9,namesilo,,,22/09/2026 13:54
 f531e7a9-13bc-4a18-b36e-2617bc0382ab,agape.faith,premium,625,81.25,medium,low,5,name.com,,,
 09f9f1b1-04c0-40e7-841e-c50d6a3f0963,crap.faith,premium,625,,medium,low,4,name.com,,,
 4d5b477c-b4f1-4956-9250-54e9ac5082f3,asshole.faith,premium,437.5,62.5,low,low,7,name.com,,,08/08/2026 23:24
@@ -608,7 +604,7 @@ a250e668-8ceb-4a02-ada1-923c22b4774d,footballer.faith,available,11.99,11.99,high
 4c51cfba-e869-432a-8d2e-acbfcb882346,voting.faith,premium,1107,116,high,low,6,namesilo,,,
 f7ca462b-d8e3-4f06-8586-d2539ac3c2b3,balletic.faith,available,11.99,11.99,low,low,8,namesilo,,,08/08/2026 10:26
 5f8bdeb8-1d6d-42b7-a4e6-f240a6aea24e,outer.faith,available,11.99,11.99,high,low,5,namesilo,,,
-2cb0f107-4106-4537-a535-da052bd8c202,surrogate.faith,premium,125,37.99,high,low,9,name.com,,,
+2cb0f107-4106-4537-a535-da052bd8c202,surrogate.faith,premium,116,29.5,low,low,9,namesilo,,,22/09/2026 02:27
 53101f49-fc1d-4521-a252-bb91c1bac1c5,paul.faith,premium,116,29.5,high,medium,4,namesilo,,,
 14c40ff5-2d8e-47a1-9fc9-f16016b48d36,arts.faith,premium,3450,116,medium,low,4,namesilo,,,19/09/2026 04:18
 e1b9d6bc-f539-42fd-8303-1b44b31cb0eb,tilted.faith,available,11.99,11.99,low,low,6,namesilo,,,07/08/2026 13:29
@@ -616,7 +612,7 @@ e1b9d6bc-f539-42fd-8303-1b44b31cb0eb,tilted.faith,available,11.99,11.99,low,low,
 10e61e63-df81-460a-8e3c-7426d6082b2a,oilandwater.faith,available,11.99,11.99,low,low,13,namesilo,,,
 26cec018-a193-4c9b-939f-97a4b8e1f939,merely.faith,available,11.99,11.99,medium,low,6,namesilo,,,
 fb5a942f-c3e0-49ba-a736-755da003bf9c,song.faith,premium,3125,,high,low,4,name.com,,,
-91971c1a-a8aa-4db1-bea5-4f7d216b3cc2,absurd.faith,premium,437.5,62.5,low,low,6,name.com,,,
+91971c1a-a8aa-4db1-bea5-4f7d216b3cc2,absurd.faith,premium,437.5,62.5,medium,low,6,name.com,,,
 c7f40d5b-09ab-467d-91e3-293609c6f9bd,unshakable.faith,resell,,,high,low,10,Sav.com LLC,22/03/2025 17:15,22/03/2027 17:15,
 e2d82433-b0c3-4311-8796-f4a73239c22f,arena.faith,available,11.99,11.99,high,medium,5,namesilo,,,
 97942f55-9187-4047-9036-7c91f0be1bfd,restless.faith,available,16.98,,medium,low,8,namecheap,,,
@@ -629,7 +625,7 @@ ac3d9c66-aa79-4179-8398-8361e34e017e,extraordinary.faith,premium,116,29.5,high,l
 9a3e7f25-11d8-456f-aab3-92ab2efbec0f,bang.faith,premium,437.5,,high,low,4,name.com,,,
 bac4eec0-72a2-4fa4-b1ee-2eef3c6fa663,icu.faith,premium,625,,high,low,3,name.com,,,
 2993630f-92a4-48d8-8240-d4cf80c9b821,touchbase.faith,premium,437.5,,medium,low,10,name.com,,,
-cc0a4592-126c-4a0c-b2f1-9211fc53be2c,before.faith,premium,625,81.25,high,low,6,name.com,,,
+cc0a4592-126c-4a0c-b2f1-9211fc53be2c,before.faith,premium,640,77.35,medium,low,6,namesilo,,,21/09/2026 23:34
 9bfcfe44-c437-48f0-bcb5-912daf3401f5,fatuous.faith,available,11.99,11.99,low,low,7,namesilo,,,07/08/2026 02:39
 b495037e-2764-4075-a5da-79b59eab9363,turtlenecksweater.faith,available,11.99,11.99,high,low,18,namesilo,,,
 72363414-dcf6-4185-abc9-58b3c23fbe27,nation.faith,premium,3125,,high,low,6,name.com,,,
@@ -641,8 +637,8 @@ dcce6ef5-2a0a-4720-bce0-5e9f69049301,woman.faith,premium,3125,,high,low,5,name.c
 b53e68bd-503b-43ce-a17d-4db5b01cbe63,apparent.faith,premium,116,29.5,low,low,8,namesilo,,,06/08/2026 05:08
 ed13b2e7-a39c-48dc-8c03-8cfc8d6a803a,march.faith,available,,,high,low,5,,,,
 0c9b173e-a349-4b81-a40a-029a29bad6c7,christ.faith,available,,,high,low,6,,,,
-64ef7010-42cc-4914-aa97-f9173bf1c6ad,wiz.faith,premium,625,81.25,high,low,3,name.com,,,
-a7a75fe8-4402-40a9-9eba-09b5b47d9fd6,xviii.faith,available,11.99,11.99,medium,low,5,namesilo,,,
+64ef7010-42cc-4914-aa97-f9173bf1c6ad,wiz.faith,premium,650,84.5,medium,low,3,namecheap,,,21/09/2026 18:16
+a7a75fe8-4402-40a9-9eba-09b5b47d9fd6,xviii.faith,available,11.99,11.99,low,low,5,namesilo,,,21/09/2026 12:00
 93f38377-cc4d-4bff-865c-d3a7f262b866,dslr.faith,available,11.99,11.99,high,low,4,namesilo,,,
 008a1b1c-f5ce-4c0d-a356-2d0080c462e6,upsidedowncake.faith,available,11.99,11.99,high,low,16,namesilo,,,
 c505e611-635b-4bb8-b0d8-fee18212a092,harrowing.faith,available,11.99,11.99,low,low,9,namesilo,,,
@@ -654,7 +650,7 @@ e3b0c0e1-ea1f-4f2b-9eb0-03dadf23c0e5,per.faith,premium,625,,high,low,3,name.com,
 4a15dc13-096b-4d30-b19f-e9bc14478655,fist.faith,premium,1107,116,high,low,4,namesilo,,,
 9c3e8f8b-552b-46f8-a15f-7d3d45ed76a7,argentine.faith,available,,,high,low,9,,,,
 96e9ad37-58ce-4090-9723-d11e5d618d89,chanukkah.faith,available,11.99,11.99,medium,low,9,namesilo,,,
-0fbd1a9a-13f2-4eb6-92ad-4981cecec637,wealthy.faith,premium,3125,125,high,low,7,name.com,,,
+0fbd1a9a-13f2-4eb6-92ad-4981cecec637,wealthy.faith,premium,3450,116,medium,low,7,namesilo,,,21/09/2026 21:57
 a57c0311-608e-46a7-9a80-9068b72141e9,overagain.faith,available,12.98,16.98,low,low,10,namecheap,,,13/09/2026 18:13
 cc89a637-a10a-4511-bf20-c83ade0ef56f,morethan.faith,available,11.99,11.99,medium,low,9,namesilo,,,
 2b022cf6-5732-4525-a181-f1052c72b726,ascendant.faith,premium,437.5,62.5,low,low,9,name.com,,,
@@ -665,11 +661,11 @@ cc89a637-a10a-4511-bf20-c83ade0ef56f,morethan.faith,available,11.99,11.99,medium
 7232c685-a845-4686-a6bd-ee9d66c8c747,sideways.faith,available,11.99,11.99,high,low,8,namesilo,,,
 73f9ecc0-4f10-4d22-8223-be2877c9b8de,modern.faith,premium,625,,high,low,6,name.com,,,
 83265b37-6cff-4f96-bfdc-162bef906861,givein.faith,available,11.99,11.99,high,low,7,namesilo,,,
-6d600b48-6f50-4998-a236-9bcfce5edb9f,stretch.faith,premium,125,37.99,high,low,7,name.com,,,
+6d600b48-6f50-4998-a236-9bcfce5edb9f,stretch.faith,premium,130,32.5,medium,low,7,namecheap,,,21/09/2026 20:13
 24a9c105-49f4-4461-9556-f31c89df4f7e,middleeastern.faith,available,16.98,,medium,low,14,namecheap,,,
 9c421281-8fc4-42a3-b74b-16a1997ec953,smell.faith,premium,116,29.5,high,low,5,namesilo,,,
 89f6a2b8-4e02-446d-a05e-9af6027a5cee,awny.faith,premium,116,29.5,low,low,4,namesilo,,,08/08/2026 01:25
-5a2fb02d-3664-4500-8ba1-031bcd23bea4,network.faith,premium,116,29.5,low,low,7,namesilo,,,19/09/2026 04:36
+5a2fb02d-3664-4500-8ba1-031bcd23bea4,network.faith,premium,116,29.5,low,low,7,namesilo,,,23/09/2026 02:58
 431c3fab-881b-4b10-82ea-2f860a501cdc,mother.faith,premium,625,,high,low,6,name.com,,,
 8d83fc8e-bd68-49e4-bf4c-961aa69634ea,cod.faith,premium,625,,high,low,3,name.com,,,
 c583ca6d-b1db-453a-a6a6-20d119854f40,name.faith,premium,1107,116,high,high,4,namesilo,,,
@@ -684,7 +680,7 @@ d009c966-9fed-4146-9aa6-e176e1184a49,fearful.faith,premium,625,81.25,high,low,7,
 c9039269-3d4f-44b8-9b9b-5cfdcb625573,okboomer.faith,available,11.99,11.99,high,low,9,namesilo,,,
 b7d56508-6db8-4b7a-a448-ed30b427f036,xxxvi.faith,available,11.99,11.99,low,low,5,namesilo,,,
 a36be08c-6476-4beb-bf8f-d870adc77311,spellingword.faith,available,11.99,11.99,medium,low,13,namesilo,,,
-b6044730-1f2d-4acf-9519-7fec0e4ff77b,boring.faith,premium,116,29.5,medium,low,6,namesilo,,,
+b6044730-1f2d-4acf-9519-7fec0e4ff77b,boring.faith,premium,116,29.5,low,low,6,namesilo,,,23/09/2026 00:20
 983bd145-f785-4d49-a894-b41af16b9246,lxiii.faith,available,11.99,11.99,low,low,5,namesilo,,,
 2c48e23c-7666-4653-83f3-74eb3a5f9d91,reflexively.faith,available,11.99,11.99,low,low,11,namesilo,,,
 c1a5ea6a-24ee-49c5-b506-107a41b89244,antitoxic.faith,available,11.99,11.99,low,low,9,namesilo,,,05/08/2026 19:55
@@ -711,11 +707,11 @@ f0737920-484c-4c09-a20e-94ce80bfce02,component.faith,premium,125,37.99,high,low,
 6d72ab30-5ffd-442e-a9c9-b5ece632dd28,generaleducation.faith,available,11.99,11.99,high,low,17,namesilo,,,
 ac2b3644-6fb0-4533-babe-e05b3d9ecc60,unadvisable.faith,available,11.99,11.99,medium,low,11,namesilo,,,
 8078e275-7bf6-4d5b-bac3-2374c9821500,eolian.faith,premium,437.5,62.5,low,low,6,name.com,,,
-35343dc0-ea57-408d-a09f-d178f5b20bc5,alterable.faith,available,11.99,11.99,high,low,9,namesilo,,,
+35343dc0-ea57-408d-a09f-d178f5b20bc5,alterable.faith,available,11.99,11.99,low,low,9,namesilo,,,22/09/2026 02:18
 d3f4a4dc-4f8f-4639-9ee6-3b52526e7cd9,evolve.faith,premium,116,29.5,high,low,6,namesilo,,,
 bfb36025-4587-4e02-a7e1-61b1d49e9ca5,represent.faith,available,11.99,11.99,high,low,9,namesilo,,,
 07c53372-8cd1-4083-a016-63c438ac6ea7,comeupwith.faith,available,11.99,11.99,high,low,12,namesilo,,,
-47cf9b49-4a0f-438e-842d-54cb589d4e1f,august.faith,premium,625,,high,low,6,name.com,,,
+47cf9b49-4a0f-438e-842d-54cb589d4e1f,august.faith,premium,640,77.35,low,low,6,namesilo,,,22/09/2026 12:44
 02651141-493a-4646-abd4-9273d6485b4b,thorny.faith,available,12.98,16.98,low,low,6,namecheap,,,08/08/2026 17:55
 40253304-88c7-4bc8-add8-7901260bdeb8,sounded.faith,available,11.99,11.99,low,low,7,namesilo,,,
 ccd4e183-0224-4246-96ea-0b5d4abeab6d,adrenergic.faith,available,11.99,11.99,low,low,10,namesilo,,,
@@ -738,7 +734,7 @@ a0aa5b10-4046-4972-acc3-0765584e3288,leavesomeonecold.faith,available,11.99,11.9
 be944869-40eb-43c6-a20e-87722318ea1d,hearing.faith,available,11.99,11.99,high,low,7,namesilo,,,
 66845b46-2d21-43cd-a034-147a3ee24214,bar.faith,premium,625,,high,low,3,name.com,,,
 520df013-8475-4005-912b-ae68922168ec,attheworst.faith,available,11.99,11.99,medium,low,12,namesilo,,,
-5f79bd81-0655-4fdd-ba1c-e5e8e54ae0a9,maker.faith,available,11.99,11.99,high,low,5,namesilo,,,
+5f79bd81-0655-4fdd-ba1c-e5e8e54ae0a9,maker.faith,available,34.99,37.99,low,low,5,name.com,,,22/09/2026 01:52
 f59bd7f3-75a1-48d4-b35d-446a84133d2b,whitepepper.faith,available,11.99,11.99,low,low,12,namesilo,,,
 c2e78238-3848-4a03-b5c6-f47f35e1b479,soundlike.faith,available,11.99,11.99,low,low,10,namesilo,,,
 5baef532-5578-4cfc-8f71-55001d765583,adverse.faith,premium,116,29.5,low,low,7,namesilo,,,
@@ -761,7 +757,7 @@ a233890f-6665-41c1-82fb-61f6bcb14288,tasking.faith,premium,437.5,,medium,low,7,n
 9ab1bebe-fa48-4734-b9e9-ff30c2362ad8,needle.faith,available,11.99,11.99,medium,low,6,namesilo,,,
 daa21ded-e252-4599-b26d-4dcd21507617,coast.faith,available,11.99,11.99,high,low,5,namesilo,,,
 018ca6b3-b677-4818-998b-e12e80d637bd,compactcamera.faith,available,16.98,,high,low,14,namecheap,,,
-db285fc8-c24b-4881-a55a-ccd2b74bc8fb,found.faith,premium,625,,high,medium,5,name.com,,,
+db285fc8-c24b-4881-a55a-ccd2b74bc8fb,found.faith,premium,650,84.5,low,low,5,namecheap,,,22/09/2026 17:43
 abf80411-58d1-467b-83a1-c28610bdfcb1,frenchrice.faith,available,16.98,,high,low,11,namecheap,,,
 d504b992-4dae-4a5b-8f59-4d9976ddf862,dissonant.faith,premium,437.5,62.5,low,low,9,name.com,,,07/08/2026 12:26
 de69da3d-8cdc-4bf1-95ea-55042943799e,autologous.faith,available,11.99,11.99,low,low,10,namesilo,,,07/08/2026 20:37
@@ -786,26 +782,26 @@ a51257de-3ba1-426e-9ad9-3d8cc8b70946,dewy.faith,available,11.99,11.99,low,low,4,
 2cff06ee-1847-4719-a437-1fab7ff67cfe,myapology.faith,available,11.99,11.99,high,low,10,namesilo,,,
 2f24624a-cdea-453f-ae40-ca68db8de2b2,spirit.faith,available,,,high,low,6,,,,
 90657dc4-6a46-4244-a754-1309cd0d71e9,identical.faith,available,11.99,11.99,high,low,9,namesilo,,,
-ecd97c2d-d579-4b04-863c-5f8575d8baff,wet.faith,premium,625,,high,low,3,name.com,,,
-f01fb004-356b-4fbf-9569-a5714b398ce4,antiseptic.faith,available,11.99,11.99,high,low,10,namesilo,,,
+ecd97c2d-d579-4b04-863c-5f8575d8baff,wet.faith,premium,640,77.35,medium,low,3,namesilo,,,22/09/2026 19:43
+f01fb004-356b-4fbf-9569-a5714b398ce4,antiseptic.faith,available,11.99,11.99,medium,low,10,namesilo,,,22/09/2026 06:54
 374b41db-2303-4bfc-8f45-57e278265b6e,bahraini.faith,available,11.99,11.99,low,low,8,namesilo,,,08/08/2026 08:36
 94e8605b-b1e9-4c15-8345-1ca312ac0441,miffed.faith,available,11.99,11.99,low,low,6,namesilo,,,
 349fae20-ff84-4e07-8249-c33bb89b6b6a,supervise.faith,premium,125,,high,low,9,name.com,,,
 af17432e-ed93-493a-bb5c-19e466cedbaa,thisone.faith,available,11.99,11.99,low,low,8,namesilo,,,
-afdb5f65-79b7-4907-93f3-63913b567b98,acappella.faith,premium,437.5,62.5,medium,low,10,name.com,,,
+afdb5f65-79b7-4907-93f3-63913b567b98,acappella.faith,premium,455,65,low,low,10,namecheap,,,21/09/2026 13:25
 f69732e3-4d2b-4e7c-9644-91740a5015c7,pete.faith,premium,116,29.5,high,low,4,namesilo,,,
 e2827c6e-0201-41cb-b561-11d7887ab6e8,feature.faith,premium,625,,high,low,7,name.com,,,
 93ca9223-e50d-4743-8c8c-815b81040699,courteous.faith,available,11.99,11.99,high,low,9,namesilo,,,
 6c64bd41-2504-4253-bc59-82292d43b0f3,sourcecode.faith,available,11.99,11.99,medium,low,11,namesilo,,,08/09/2026 07:26
 849008d2-b987-4d80-9716-83a6a6761688,successes.faith,available,11.99,11.99,low,low,9,namesilo,,,
 0b4e1d6b-879d-4ac6-9481-94573c31d2f5,basement.faith,available,11.99,11.99,medium,low,8,namesilo,,,
-74677066-8c00-4aa0-a0ff-743f63c63b75,joke.faith,premium,3125,,high,low,4,name.com,,,
-f27936f1-1c2c-41b6-850f-fe988d903054,fillin.faith,available,11.99,11.99,high,low,7,namesilo,,,
+74677066-8c00-4aa0-a0ff-743f63c63b75,joke.faith,premium,3450,116,medium,low,4,namesilo,,,22/09/2026 06:20
+f27936f1-1c2c-41b6-850f-fe988d903054,fillin.faith,available,11.99,11.99,low,low,7,namesilo,,,21/09/2026 16:17
 c0ca6f03-1674-4734-8c95-39b2261d2840,letterbox.faith,premium,437.5,,medium,low,10,name.com,,,
 3d6bf846-dad4-476c-8e3a-e3bcc703772a,net.faith,premium,625,,high,medium,3,name.com,,,
 39d5cedf-5338-42db-aa2c-7ce32e02974f,recommendation.faith,available,16.98,,low,low,14,namecheap,,,
 2aee0378-f16f-49f0-ad7b-2df8cdeb373b,relating.faith,available,16.98,,medium,low,8,namecheap,,,
-d94364c2-2c49-47fb-a2f4-5edea5b40702,admirable.faith,premium,625,81.25,high,low,9,name.com,,,
+d94364c2-2c49-47fb-a2f4-5edea5b40702,admirable.faith,premium,640,77.35,medium,low,9,namesilo,,,21/09/2026 18:46
 fc5ab5f0-533e-445b-957a-a296141a6ba3,considered.faith,available,11.99,11.99,high,low,10,namesilo,,,
 acd8cb24-ddc7-4392-87e5-ec99abb41538,society.faith,premium,625,,high,low,7,name.com,,,
 848ad0ae-54a9-4a51-959e-4915de972c7b,windowseat.faith,premium,437.5,,high,low,11,name.com,,,
@@ -815,7 +811,7 @@ b10b545c-e452-41f7-91e6-9b13cef39e80,resignation.faith,available,16.98,,medium,l
 f7e91fca-807e-49ad-92dc-a7cc1a5c6ff4,howgoesit.faith,available,11.99,11.99,medium,low,11,namesilo,,,
 75090df0-6f63-4509-a464-41b91f29cdd8,style.faith,premium,640,77.35,medium,low,5,namesilo,,,08/09/2026 07:22
 184c9acc-edca-43cd-a0fe-c5b97a306ea6,bay.faith,premium,625,81.25,low,low,3,name.com,,,09/08/2026 02:26
-39e01cbf-bd3f-41e1-ac8c-e0e1c0b28391,intrepid.faith,premium,437.5,,high,low,8,name.com,,,
+39e01cbf-bd3f-41e1-ac8c-e0e1c0b28391,intrepid.faith,premium,455,65,medium,low,8,namecheap,,,22/09/2026 12:24
 294906fa-5ad1-45b6-bc7b-cf0850baa5aa,kill.faith,premium,3125,125,medium,low,4,name.com,,,
 3f3a0720-5de6-49ee-b0f1-7b13ec4097e9,industrialize.faith,available,11.99,11.99,medium,low,13,namesilo,,,
 cae7d5a8-642b-4a5e-aec9-2dd4157907b9,sufferable.faith,available,11.99,11.99,low,low,10,namesilo,,,09/08/2026 04:38
@@ -823,7 +819,7 @@ cae7d5a8-642b-4a5e-aec9-2dd4157907b9,sufferable.faith,available,11.99,11.99,low,
 3a32ffca-cfb1-4f15-80a9-b5da5c50f4eb,fraud.faith,premium,625,,high,low,5,name.com,,,
 3b671c51-24a6-48e9-a22a-32a09bb1f874,lowkeyed.faith,available,11.99,11.99,medium,low,9,namesilo,,,
 7e3eb76e-8653-4cdb-a300-15a6de71516f,cowboy.faith,premium,116,29.5,high,low,6,namesilo,,,
-3b9a94fc-4d1e-4737-a91d-f0b32e593e1a,able.faith,premium,1250,125,high,low,4,name.com,,,
+3b9a94fc-4d1e-4737-a91d-f0b32e593e1a,able.faith,premium,1300,130,medium,low,4,namecheap,,,21/09/2026 13:57
 dfbd0a95-2d56-4620-811e-7d4bd5adb789,atsomepoint.faith,available,11.99,11.99,high,low,13,namesilo,,,
 3e481eb2-0034-4e2b-9ad7-5a0e06ed7935,lottery.faith,premium,6250,,high,low,7,name.com,,,
 693ea0a5-d5a6-4c2f-bb0a-2ecaf4184916,allergist.faith,available,11.99,11.99,medium,low,9,namesilo,,,
@@ -852,7 +848,7 @@ e238cfde-a023-449f-a211-c71201f3c719,eonian.faith,premium,437.5,62.5,low,low,6,n
 e1c95b8d-511a-4c9c-b4ef-e54dd26a9b4f,bavarian.faith,premium,437.5,62.5,low,low,8,name.com,,,09/08/2026 02:00
 57e0a37b-3899-4446-85f7-2e50cdf18e4a,amok.faith,premium,116,29.5,low,low,4,namesilo,,,
 ece7082e-7235-4840-b0b4-2c11758ba329,market.faith,premium,116,29.5,medium,low,6,namesilo,,,19/09/2026 13:41
-4e2761dd-0f30-4da9-83a2-0b018144a13c,trick.faith,premium,125,,high,low,5,name.com,,,
+4e2761dd-0f30-4da9-83a2-0b018144a13c,trick.faith,premium,116,29.5,medium,low,5,namesilo,,,22/09/2026 06:28
 5b6d6702-53af-4b91-ba95-be6e8ce5b648,avirulent.faith,available,11.99,11.99,low,low,9,namesilo,,,07/08/2026 23:41
 49cee975-7dfc-46f4-8af3-752da6bc329e,shape.faith,available,11.99,11.99,high,low,5,namesilo,,,
 914b21b9-32fe-4ac5-9d86-3a9055cb02de,tossaway.faith,available,11.99,11.99,medium,low,9,namesilo,,,
@@ -870,7 +866,7 @@ abac194c-9858-4def-ae43-cf430335e1de,calm.faith,premium,1107,116,high,low,4,name
 892e277b-6179-4109-b22a-eb8edb5f09a4,true.faith,available,,,high,medium,4,,,,
 b38dca40-227a-4fc2-995f-1ba72477b116,young.faith,premium,6250,,high,low,5,name.com,,,
 a2b82ea4-aa34-49dc-8b34-daea535da159,grownup.faith,available,11.99,11.99,low,low,7,namesilo,,,
-9db32b3f-7f2e-40b9-883a-9a43baee8afc,shrewd.faith,available,16.98,,medium,low,6,namecheap,,,
+9db32b3f-7f2e-40b9-883a-9a43baee8afc,shrewd.faith,available,11.99,11.99,low,low,6,namesilo,,,22/09/2026 10:37
 ef59febb-52e7-4034-b5f6-f0a2a41449cd,wages.faith,premium,116,29.5,high,low,5,namesilo,,,
 814f381e-eab2-4a03-9e43-ce260edd1663,panther.faith,available,11.99,11.99,medium,low,7,namesilo,,,
 98e88cd0-0788-4ec9-91e0-b6a9a1866a44,confounded.faith,available,11.99,11.99,low,low,10,namesilo,,,07/08/2026 11:57
@@ -908,7 +904,7 @@ dddf5137-0d8b-497a-9c37-b8c8c33ac5c1,consequent.faith,available,11.99,11.99,low,
 f022e22e-bfe7-45f5-8881-3f11ef5e909b,adjunctive.faith,available,11.99,11.99,low,low,10,namesilo,,,
 5ecc8156-b382-476d-af4a-982b86b48d7d,confirmed.faith,available,11.99,11.99,medium,low,9,namesilo,,,
 42a94b73-06ba-4238-a7eb-b961947be069,atpeace.faith,premium,437.5,,high,low,8,name.com,,,
-94d6d2f3-1f79-461b-b3ac-9ccea37078a1,terribly.faith,available,11.99,11.99,medium,low,8,namesilo,,,
+94d6d2f3-1f79-461b-b3ac-9ccea37078a1,terribly.faith,available,11.99,11.99,low,low,8,namesilo,,,22/09/2026 15:23
 3d3bca70-9147-4b5c-bac6-0d0622ff4484,lxxxi.faith,available,11.99,11.99,low,low,5,namesilo,,,
 1bd995cf-a5ec-40cc-9ba3-53895079b7cb,kgb.faith,premium,625,,high,low,3,name.com,,,
 531739a4-de0f-4757-b462-ffca73507671,corrective.faith,available,11.99,11.99,high,low,10,namesilo,,,
@@ -946,13 +942,13 @@ fb286412-5f22-4e16-9772-583450e1f857,ellen.faith,premium,437.5,,high,low,5,name.
 60b5b487-bc3a-44af-a3da-4dbc0e100112,soil.faith,premium,625,81.25,high,low,4,name.com,,,
 c6f9fedd-c685-44ec-bcde-791488fab8d5,alkaloidal.faith,available,11.99,11.99,low,low,10,namesilo,,,
 fb38b7e4-6952-4fa8-88a1-3d7384b9581e,ribald.faith,available,11.99,11.99,low,low,6,namesilo,,,09/08/2026 02:15
-1203d34e-84a1-41d7-b71e-6f27047aed70,tea.faith,premium,640,77.35,medium,low,3,namesilo,,,19/09/2026 04:49
+1203d34e-84a1-41d7-b71e-6f27047aed70,tea.faith,premium,640,77.35,medium,low,3,namesilo,,,23/09/2026 02:52
 bb1d4e8f-e7d6-455e-8182-0d1bf99afc4b,yearly.faith,premium,625,,high,low,6,name.com,,,
 9ae7b3f6-5e87-4ac6-83e8-1964e0fd327f,device.faith,premium,116,29.5,high,low,6,namesilo,,,
 db4c128d-9f9b-47ff-97b2-d5212ab70a64,calf.faith,premium,1107,116,high,low,4,namesilo,,,
 17c9a302-1bca-454a-8114-cc8c80fcadd0,formless.faith,premium,437.5,62.5,low,low,8,name.com,,,
 2dd6d117-0cdb-493b-ba34-30b31b6d3e33,ageold.faith,available,11.99,11.99,low,low,7,namesilo,,,
-586d9d81-e09b-45b4-a294-24c3a99f8fc1,tempting.faith,premium,625,81.25,high,low,8,name.com,,,
+586d9d81-e09b-45b4-a294-24c3a99f8fc1,tempting.faith,premium,650,84.5,medium,low,8,namecheap,,,22/09/2026 01:44
 ddc6be53-e341-4c51-a07f-48e62e5495c6,barring.faith,available,11.99,11.99,medium,low,7,namesilo,,,
 715d286f-147a-4721-aae9-e65ada178a22,silotruck.faith,available,11.99,11.99,medium,low,10,namesilo,,,
 50b0800f-c3b3-486c-a8db-c4259ba31025,asking.faith,available,11.99,11.99,high,low,6,namesilo,,,
@@ -982,7 +978,7 @@ b21876c5-7de0-4570-ba90-18530e8350a0,iso.faith,available,,,high,low,3,,,,
 fd8e8f43-de3b-486b-aa4f-219c8fade1ca,inthewakeof.faith,available,16.98,,medium,low,14,namecheap,,,
 02aa8d3e-50b6-4b78-b60f-f7e8eaca28ec,awninged.faith,available,11.99,11.99,low,low,8,namesilo,,,08/08/2026 01:30
 e2d51b74-f907-41ed-aa98-58b092cba557,aneroid.faith,available,11.99,11.99,low,low,7,namesilo,,,
-da7a1d84-1991-4705-abdc-5c670dd55a4c,ageing.faith,available,11.99,11.99,high,low,6,namesilo,,,
+da7a1d84-1991-4705-abdc-5c670dd55a4c,ageing.faith,available,12.98,16.98,low,low,6,namecheap,,,21/09/2026 22:43
 01237e10-7a65-435c-b2a2-bcec049591fa,truth.faith,available,,,high,low,5,,,,
 41789ce9-6f6f-4b73-a74c-16f5746059e5,wanting.faith,available,11.99,11.99,high,low,7,namesilo,,,
 d2fb42a7-e6f5-4a5d-acda-fc98ebb9f0ac,keys.faith,premium,437.5,,medium,medium,4,name.com,,,
@@ -993,9 +989,13 @@ d2fb42a7-e6f5-4a5d-acda-fc98ebb9f0ac,keys.faith,premium,437.5,,medium,medium,4,n
 010aec4d-15cc-4ac4-ba57-7167b5f7b07e,bloodstream.faith,available,11.99,11.99,medium,low,11,namesilo,,,
 9f86e1f3-0ba7-4e1d-9d3f-5dcfcd0319de,ladder.faith,premium,116,29.5,high,low,6,namesilo,,,
 f567669a-b845-4997-b175-e2c30dd0a1c3,simultaneously.faith,available,11.99,11.99,low,low,14,namesilo,,,
-a8c0242b-e3fe-4548-b573-a90c11e49c51,substitute.faith,available,11.99,11.99,high,low,10,namesilo,,,
+a8c0242b-e3fe-4548-b573-a90c11e49c51,substitute.faith,available,11.99,11.99,medium,low,10,namesilo,,,22/09/2026 02:40
 0006796b-c1c7-41ce-87fc-abd120ac1887,feel.faith,premium,1300,130,high,low,4,namecheap,,,20/09/2026 02:26
 23dd642b-b663-48cd-b853-7ddeab1574da,showandtell.faith,available,11.99,11.99,high,low,13,namesilo,,,
 0a932037-cf3d-4849-9bbc-8b2159cd6a42,cipher.faith,premium,448,53.92,medium,low,6,namesilo,,,08/09/2026 15:11
 6f4a65bd-198f-4497-aa96-059b2932fddd,verb.faith,available,11.99,11.99,high,low,4,namesilo,,,
 eb27c279-d672-4efe-82f9-0ca971eeb23c,cancer.faith,premium,625,,high,low,6,name.com,,,
+56e85352-115c-4133-8852-bd7028eb7865,asofright.faith,available,11.99,11.99,medium,low,11,namesilo,,,
+e9719549-ccf9-4cc8-8f9d-cf8b78777674,disguise.faith,premium,625,,high,low,8,name.com,,,
+2b48cb73-57fc-4c66-af20-999516b79287,voiceless.faith,available,11.99,11.99,low,low,9,namesilo,,,05/08/2026 23:23
+feb05759-8785-4acf-b15b-4373cb3ca7bc,invent.faith,premium,116,29.5,high,low,6,namesilo,,,
