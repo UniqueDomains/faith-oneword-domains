@@ -1,10 +1,10 @@
-# Available .FAITH One-Word Domains (29,500)
+# Available .FAITH One-Word Domains (31,963)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C500%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-31%2C963%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .faith one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,500 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **31,963 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,500 domains · **Median ask:** $291.84 · **High-demand under $2,500:** 74
+**Public extract:** 1,000 rows · **Live catalog:** 31,963 domains · **Median ask:** $284.74 · **High-demand under $2,500:** 83
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/faith`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
-| rose.faith       | premium   | $103.70   | $26.08        | high           | medium | 4      | spaceship  |
-| attention.faith  | available | $19.99    | $39.99        | high           | low    | 9      | godaddy    |
-| support.faith    | premium   | $1,107    | $116          | high           | medium | 7      | namesilo   |
-| detail.faith     | premium   | $116      | $29.50        | high           | low    | 6      | namesilo   |
-| not.faith        | premium   | $640      | $77.35        | high           | medium | 3      | namesilo   |
-| things.faith     | premium   | $362.45   | $51.95        | high           | low    | 6      | spaceship  |
-| goal.faith       | premium   | $2,587.70 | $103.70       | high           | low    | 4      | spaceship  |
-| humanity.faith   | premium   | $640      | $77.35        | high           | low    | 8      | namesilo   |
-| spray.faith      | available | $11.99    | $11.99        | high           | low    | 5      | namesilo   |
-| courtyard.faith  | available | $10.90    | $10.90        | high           | low    | 9      | dynadot    |
-| cockpit.faith    | available | $12.98    | $16.98        | high           | low    | 7      | namecheap  |
-| observer.faith   | available | $11.99    | $11.99        | high           | low    | 8      | namesilo   |
-| glory.faith      | premium   | $6,250    | —             | high           | low    | 5      | name.com   |
-| restaurant.faith | available | $10.90    | $10.90        | high           | low    | 10     | dynadot    |
-| northern.faith   | premium   | $625      | $81.25        | high           | low    | 8      | name.com   |
-| former.faith     | premium   | $650      | $84.50        | high           | low    | 6      | namecheap  |
-| retro.faith      | premium   | $116      | $29.50        | high           | medium | 5      | namesilo   |
-| fat.faith        | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
-| resort.faith     | available | $10.18    | $10.18        | high           | low    | 6      | cloudflare |
-| lets.faith       | premium   | $455      | $65           | high           | low    | 4      | namecheap  |
+| domain     | status    | ask_price | renewal_price | attractiveness | demand | length | registrar  |
+| ---------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------- |
+| alep.faith | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo   |
+| ata.faith  | premium   | $517.70   | $67.48        | medium         | low    | 3      | spaceship  |
+| blab.faith | available | $12.98    | $16.98        | high           | low    | 4      | namecheap  |
+| ces.faith  | premium   | $550      | $71.50        | high           | low    | 3      | dynadot    |
+| curt.faith | available | $11.99    | $11.99        | medium         | low    | 4      | namesilo   |
+| con.faith  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
+| edgy.faith | available | $11.99    | $11.99        | high           | low    | 4      | namesilo   |
+| dee.faith  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
+| feud.faith | available | $19.99    | $39.99        | high           | low    | 4      | godaddy    |
+| diy.faith  | premium   | $517.70   | $67.48        | high           | low    | 3      | spaceship  |
+| hogg.faith | available | $10.18    | $10.18        | medium         | low    | 4      | cloudflare |
+| dog.faith  | premium   | $550      | $71.50        | high           | medium | 3      | dynadot    |
+| kits.faith | available | $10.90    | $10.90        | high           | low    | 4      | dynadot    |
+| dsc.faith  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
+| lark.faith | available | $10.53    | $10.53        | high           | low    | 4      | spaceship  |
+| epr.faith  | premium   | $546.35   | $71.48        | high           | low    | 3      | porkbun    |
+| livy.faith | available | $12.98    | $16.98        | medium         | low    | 4      | namecheap  |
+| fat.faith  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
+| mare.faith | available | $11.99    | $11.99        | high           | low    | 4      | namesilo   |
+| fix.faith  | premium   | $640      | $77.35        | high           | low    | 3      | namesilo   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,500 live domains                        |
+| 1,000-row public sample | 31,963 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 74 high-demand names under $2,500          |
+| Basic exported fields   | 83 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .FAITH One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
